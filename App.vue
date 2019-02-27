@@ -1,5 +1,5 @@
 <script>
-	//this is test code,test work flow
+	//this is test code,test work flow. 2019.02.27 haoy
 	export default {
 		onLaunch: function () {
 			console.log('App Launch')
