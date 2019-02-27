@@ -1,4 +1,5 @@
 <script>
+	//this is test code,test work flow
 	export default {
 		onLaunch: function () {
 			console.log('App Launch')
