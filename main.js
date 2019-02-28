@@ -1,7 +1,8 @@
-import Vue from 'vue'
+﻿import Vue from 'vue'
 import App from './App'
 
-//这是入口文件 2019.02.27
+//这是入口文件 2019.02.29
+//add 01
 
 Vue.config.productionTip = false
 
