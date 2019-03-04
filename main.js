@@ -5,6 +5,7 @@ import App from './App'
 //01
 //05 change
 //1.1
+//2019.03.04
 
 Vue.config.productionTip = false
 
