@@ -6,6 +6,7 @@ import App from './App'
 //05 change
 //1.1
 //2019.03.04
+//feature_haoy_030401 test
 
 Vue.config.productionTip = false
 
